@@ -1,0 +1,14 @@
+title: Sergio Morales
+email: serge@sergemorales.com
+description: >
+  Software developer with a focus on complex desktop web applications.
+baseurl: ""
+url: "https://sergemorales.com"
+twitter_username: sergelerator
+github_username:  sergelerator
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
