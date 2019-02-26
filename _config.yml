@@ -6,6 +6,8 @@ baseurl: ""
 url: "https://www.sergemorales.com"
 twitter_username: sergelerator
 github_username:  sergelerator
+include:
+  - _redirects
 
 # Build settings
 markdown: kramdown
