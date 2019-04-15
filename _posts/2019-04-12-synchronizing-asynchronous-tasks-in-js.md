@@ -192,4 +192,10 @@ Error: custom error
 
 As shown above, it is possible to handle any exception in the queue's tasks individually!
 
-If you made it this far, thank you for reading!
+## Closing
+
+I hope this articles is useful in your projects. Coordinating async tasks can grow to be a complex problem; it's good to have tools to abstract this complexity to avoid losing maintainability of our code base early on.
+
+If you end up using `"sync-queues"` in your project and wish to submit a feature or bug request, feel free to use Github's issues or submit a pull request yourself!
+
+Thank you for reading.
